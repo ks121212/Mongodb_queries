@@ -1,0 +1,72 @@
+[
+    {
+    "title": "Enthiran",
+    "releaseYear":2010 ,
+    "language":["Tamil","English","Telugu"],
+    "Stats":{
+        "rating":7.8,
+        "Boxoffice":290000000
+    },
+    "castAndCrew":[{
+        "Name":"Rajnikanth",
+        "Role":"Dr.Vaseegara"
+    },
+    {
+         "Name":"Aishwarya",
+        "Role":"Sana"
+    },
+    {
+         "Name":"Danny Denzongpa",
+        "Role":"Dr.Bohra"
+    }
+]
+},
+{
+    "title": "Jeans",
+    "releaseYear": 1998,
+    "language": ["Tamil","English","Telugu"],
+    "Stats":{
+        "rating": 6.1,
+        "Boxoffice":10000000
+    },
+    "castAndCrew":[
+        {
+            "Name":"Prasanth",
+            "Role":"Vishwanath"
+        },
+        {
+            "Name":"Aishwarya",
+            "Role":"Madhumitha"
+        },
+        {
+            "Name":"Nasar",
+            "Role":"Rajguru"
+        }
+    ]
+       },
+       {
+        
+    "title": "NGK",
+    "releaseYear": 2019,
+    "language": ["Tamil","English","Telugu"],
+    "Stats":{
+        "rating": 7.0,
+        "Boxoffice":10000000
+    },
+    "castAndCrew":[
+        {
+            "Name":"Suriya",
+            "Role":"Kumaran"
+        },
+        {
+            "Name":"Sai Palavi",
+            "Role":"Madhumitha"
+        },
+        {
+            "Name":"RagulPreethi",
+            "Role":"Roja"
+        }
+    ]
+
+       }
+]
